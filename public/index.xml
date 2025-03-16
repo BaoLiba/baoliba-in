@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>BaoLiba India - The Leading Influencer Marketing Platform in India on Connecting India's Influencers and Brands to the World</title><link>https://baoliba-in.com/</link><description>Recent content in BaoLiba India - The Leading Influencer Marketing Platform in India on Connecting India's Influencers and Brands to the World</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate/><atom:link href="https://baoliba-in.com/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Connecting India&#39;s Influencers and Brands to the World</title>
+        <link>http://localhost:1313/</link>
+        <description>BaoLiba India is a global influencer marketing platform connecting brands with influencers for cross-border campaigns.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 16 Mar 2025 10:15:59 &#43;0800</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test Post</title>
+    <link>http://localhost:1313/posts/test-post/</link>
+    <pubDate>Sun, 16 Mar 2025 10:15:59 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/test-post/</guid>
+    <description><![CDATA[<hr>
+<h2 id="draft-false">title: &ldquo;测试文章&rdquo;
+date: 2025-03-16
+description: &ldquo;测试 Hugo 文章&rdquo;
+draft: false</h2>
+<h1 id="你好hugo">你好，Hugo！</h1>
+<p>这是我的第一篇文章，正在测试 PaperMod 主题！</p>]]></description>
+</item>
+</channel>
+</rss>
