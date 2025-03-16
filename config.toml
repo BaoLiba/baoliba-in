@@ -1,21 +1,12 @@
 baseURL = "https://baoliba-in.com/"
 languageCode = "en"
-title = "Baoliba India"
+title = "BaoLiba India - The Leading Influencer Marketing Platform in India"  # 修改网站标题
 theme = "PaperMod"
 
 [params]
+  description = "BaoLiba India is the top influencer marketing platform in India, connecting brands with influencers to expand their reach and grow in the Indian market."  # 修改网站描述
+  keywords = ["India influencer marketing", "brand promotion", "social media advertising", "KOL collaboration", "digital marketing"]  # 网站关键词
   ShowReadingTime = true
   ShowShareButtons = true
   Toc = true
   disableThemeToggle = false
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 2
