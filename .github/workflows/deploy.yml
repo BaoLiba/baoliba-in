@@ -26,8 +26,8 @@ jobs:
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
-          account-id: ${{ secrets.CF_ACCOUNT_ID }}
-          api-token: ${{ secrets.CF_API_TOKEN }}
-          project-name: baoliba-in
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          projectName: baoliba-in
           directory: public
-          gitHub-token: ${{ secrets.GITHUB_TOKEN }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
