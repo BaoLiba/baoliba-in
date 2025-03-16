@@ -2,12 +2,15 @@ baseURL = "https://baoliba-in.com/"
 title = "Connecting India's Influencers and Brands to the World"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-theme = "PaperMod"  # 确保这里有 PaperMod
+theme = "LoveIt"  
+
+[author]  # 🔹 必须单独存在
+  name = "BaoLiba Team"
+  link = "https://baoliba-in.com"
 
 [params]
   description = "BaoLiba India is a global influencer marketing platform connecting brands with influencers for cross-border campaigns."
   keywords = ["Influencer Marketing", "Brand Promotion", "Cross-border E-commerce", "Social Media Marketing", "India"]
-  author = "BaoLiba Team"
   mainSections = ["posts"]
   showReadingTime = true
   showShareButtons = true
