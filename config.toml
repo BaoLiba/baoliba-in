@@ -1,17 +1,56 @@
 baseURL = "https://baoliba-in.com/"
-title = "Connecting India's Influencers and Brands to the World"
+title = "Connecting India's Influencers and Brands to the World - BaoLiba"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-theme = "LoveIt"  
+theme = "PaperModX"
 
-[author]  # 🔹 必须单独存在
+# 作者信息
+[author]  
   name = "BaoLiba Team"
   link = "https://baoliba-in.com"
 
+# 站点参数（SEO & 功能优化）
 [params]
   description = "BaoLiba India is a global influencer marketing platform connecting brands with influencers for cross-border campaigns."
   keywords = ["Influencer Marketing", "Brand Promotion", "Cross-border E-commerce", "Social Media Marketing", "India"]
+
   mainSections = ["posts"]
-  showReadingTime = true
-  showShareButtons = true
-  showToc = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowToc = true
+  TocOpen = false
+  ShowPostNavLinks = true
+  ShowWordCount = true
+  ShowCodeCopyButtons = true
+  UseHugoToc = true
+  ShowBreadCrumbs = true
+  
+  # 启用 Open Graph (Facebook, LinkedIn)
+  [params.opengraph]
+    enable = true
+
+  # 启用 Twitter Card
+  [params.twitter]
+    enable = true
+    card = "summary_large_image"
+
+  # 启用 robots.txt，允许搜索引擎收录
+  enableRobotsTXT = true
+
+# 输出格式
+[outputs]
+  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+
+# 文章页面的配置
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNumbersInTable = true
+    style = "dracula"
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
