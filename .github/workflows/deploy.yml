@@ -1,0 +1,33 @@
+name: Deploy Hugo Site to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main  # 监听 main 分支的 push 事件
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Hugo
+        run: |
+          HUGO_VERSION=0.125.7
+          wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+          tar -xvf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+          mv hugo /usr/local/bin/hugo
+
+      - name: Build Hugo site
+        run: hugo --gc --minify
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          account-id: ${{ secrets.CF_ACCOUNT_ID }}
+          api-token: ${{ secrets.CF_API_TOKEN }}
+          project-name: baoliba-in
+          directory: public
+          gitHub-token: ${{ secrets.GITHUB_TOKEN }}
