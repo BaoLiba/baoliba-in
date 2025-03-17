@@ -2,12 +2,7 @@ baseURL = "https://baoliba-in.com/"
 title = "Connecting India's Influencers and Brands to the World - BaoLiba"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-theme = "PaperModX"
-
-# 作者信息
-[author]  
-  name = "BaoLiba Team"
-  link = "https://baoliba-in.com"
+theme = "LoveIt"
 
 # 站点参数（SEO & 功能优化）
 [params]
@@ -24,7 +19,12 @@ theme = "PaperModX"
   ShowCodeCopyButtons = true
   UseHugoToc = true
   ShowBreadCrumbs = true
-  
+
+  # 适配 Hugo 0.124+，修正 author 配置
+  [params.author]  
+    name = "BaoLiba Team"
+    homepage = "https://baoliba-in.com"
+
   # 启用 Open Graph (Facebook, LinkedIn)
   [params.opengraph]
     enable = true
@@ -34,12 +34,12 @@ theme = "PaperModX"
     enable = true
     card = "summary_large_image"
 
-  # 启用 robots.txt，允许搜索引擎收录
-  enableRobotsTXT = true
+# 启用 robots.txt，允许搜索引擎收录
+enableRobotsTXT = true
 
-# 输出格式
+# 输出格式（修正 Hugo 报错）
 [outputs]
-  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+  home = ["HTML", "RSS", "SITEMAP"]
 
 # 文章页面的配置
 [markup]
@@ -53,4 +53,3 @@ theme = "PaperModX"
     startLevel = 2
     endLevel = 3
     ordered = false
-
