@@ -1,5 +1,5 @@
 baseURL = "https://baoliba-in.com/"
-title = "BaoLiba"
+title = "BaoLiba 🇮🇳"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "LoveIt"
@@ -11,7 +11,7 @@ theme = "LoveIt"
 
  # 网站图标相关配置（浏览器标签页）
   [params.app]
-    title = "BaoLiba - Connecting India's Influencers and Brands to the World"
+    title = "BaoLiba 🇮🇳 - Connecting India's Influencers and Brands to the World"
     Favicon = "favicon.png"           # 不使用 SVG 图标
     noFavicon = false
     themeColor = "#ffffff"
@@ -32,7 +32,7 @@ theme = "LoveIt"
  # 主页展示配置
   [params.home.profile]
     enable = true
-    title = "<span style='font-size:1.6rem;'>👋 Welcome to <strong>BaoLiba</strong></span>"
+    title = "<span style='font-size:1.6rem;'>👋 Welcome to <strong>BaoLiba 🇮🇳</strong></span>"
     subtitle = "💥 Connecting brands with creators in <strong>50+ countries</strong> — TikTok, Instagram, YouTube and more!"
     typeit = true  # 开启动画效果
     social = true  # 显示社交图标
