@@ -1,5 +1,5 @@
 baseURL = "https://baoliba-in.com/"
-title = "Connecting India's Influencers and Brands to the World - BaoLiba"
+title = "BaoLiba"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "LoveIt"
@@ -9,6 +9,36 @@ theme = "LoveIt"
   description = "BaoLiba India is a global influencer marketing platform connecting brands with influencers for cross-border campaigns."
   keywords = ["Influencer Marketing", "Brand Promotion", "Cross-border E-commerce", "Social Media Marketing", "India"]
 
+ # 网站图标相关配置（浏览器标签页）
+  [params.app]
+    title = "BaoLiba - Connecting India's Influencers and Brands to the World"
+    svgFavicon = "favicon.png"           # 不使用 SVG 图标
+    noFavicon = false
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
+
+  # favicon 图片（放在 static/favicon.png）
+  [params.assets]
+    favicon = "/favicon.png"
+
+  # 页眉标题显示配置（站点左上角 Logo 文字）
+  [params.header.title]
+    name = "BaoLiba - Connecting India's Influencers and Brands to the World"
+    pre = ""
+    post = ""
+    typeit = false  # 不要打字动画
+
+ # 主页展示配置
+  [params.home.profile]
+    enable = false
+    title = "<span style='font-size:1.6rem;'>👋 Welcome to <strong>BaoLiba</strong></span>"
+    subtitle = "💥 Connecting brands with creators in <strong>50+ countries</strong> — TikTok, Instagram, YouTube and more!"
+    typeit = true  # 开启动画效果
+    social = true  # 显示社交图标
+   disclaimer = "<br/><a href='https://baoliba.com/' style='color:#ff4081; font-weight:bold;'>🚀 Join Now</a> &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ Email: <a href='mailto:matitie@baoliba.com'>matitie@baoliba.com</a>"
+
+  
   mainSections = ["posts"]
   ShowReadingTime = true
   ShowShareButtons = true
