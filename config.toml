@@ -53,3 +53,16 @@ enableRobotsTXT = true
     startLevel = 2
     endLevel = 3
     ordered = false
+
+ [menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
