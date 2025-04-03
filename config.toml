@@ -67,3 +67,19 @@ enableRobotsTXT = true
     url = "/tags/"
     weight = 2
 
+    # 页脚显示配置
+  [params.footer]
+    enable = true
+    hugo = false       # 隐藏 Hugo 字样
+    author = false     # 不显示作者
+    copyright = false  # 不显示版权
+    since = 2025       # 网站上线年份
+    custom = '''
+    <div class="footer-links">
+      <a href="https://baoliba.com/" target="_blank" rel="noopener">BaoLiba</a> |
+      <a href="/about/">About</a> |
+      <a href="/privacy-policy/">Privacy Policy</a> |
+      <a href="/terms-of-use/">Terms of Use</a> |
+      <a href="/contact-us/">Contact Us</a>
+    </div>
+    '''
