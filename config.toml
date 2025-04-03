@@ -31,7 +31,7 @@ theme = "LoveIt"
 
  # 主页展示配置
   [params.home.profile]
-    enable = false
+    enable = true
     title = "<span style='font-size:1.6rem;'>👋 Welcome to <strong>BaoLiba</strong></span>"
     subtitle = "💥 Connecting brands with creators in <strong>50+ countries</strong> — TikTok, Instagram, YouTube and more!"
     typeit = true  # 开启动画效果
