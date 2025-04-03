@@ -27,7 +27,7 @@ theme = "LoveIt"
     name = "BaoLiba - Connecting India's Influencers and Brands to the World"
     pre = ""
     post = ""
-    typeit = false  # 不要打字动画
+    typeit = true  # 不要打字动画
 
  # 主页展示配置
   [params.home.profile]
