@@ -12,7 +12,7 @@ theme = "LoveIt"
  # 网站图标相关配置（浏览器标签页）
   [params.app]
     title = "BaoLiba - Connecting India's Influencers and Brands to the World"
-    svgFavicon = "favicon.png"           # 不使用 SVG 图标
+    Favicon = "favicon.png"           # 不使用 SVG 图标
     noFavicon = false
     themeColor = "#ffffff"
     iconColor = "#5bbad5"
@@ -27,7 +27,7 @@ theme = "LoveIt"
     name = "BaoLiba - Connecting India's Influencers and Brands to the World"
     pre = ""
     post = ""
-    typeit = true  # 不要打字动画
+    typeit = false  # 不要打字动画
 
  # 主页展示配置
   [params.home.profile]
