@@ -1,161 +1,76 @@
 ---
-title: "How Indians Use Tokopedia to Reach Influencers in Their Marketing Campaigns"
+title: "Discover How Indonesian Influencers Can Help Your Brand Stand Out on Tokopedia"
 slug: how-to-use-tokopedia-for-business-marketing-in-philippines
-description: "Tokopedia is one of Indonesia's most popular e-commerce platforms. Discover how Indian brands leverage this platform in their influencer marketing strategies."
-date: 2025-04-03T14:55:22+00:00
-keywords: tokopedia, influencer, marketing, growth
+description: "Explore the power of influencer marketing on Tokopedia for your Indonesian business."
+date: 2025-04-05T05:31:12.255293
+keywords: tokopedia, marketing, influencer, growth
 tags:
 - tokopedia
-- influencer
 - marketing
+- influencer
 - growth
 showToc: true
 ---
 
-In the world of marketing, you have to embrace diversity. 
+Despite being the 2nd largest e-commerce platform in SEA region, not many people still know that Tokopedia is more popular than Shopee in Indonesia.
 
-Indian brands may have made the leap to the Indonesian market through online platforms. Still, they must understand that marketing in the country is quite different from that in India.
+Unlike Shopee, Tokopedia caters to local and international merchants. The fact that Tokopedia is more popular than Shopee in Indonesia means that Indonesian shoppers prefer to spend their money on Tokopedia, making it even more attractive for foreigners wanting to reach Indonesian shoppers.
 
-In Indonesia, the most widely used e-commerce platform is Tokopedia. It is essential that Indian brands learn how to use Tokopedia effectively to tap into the Indonesian market.
+Tokopedia’s massive exposure in Indonesia can also be attributed to the platform’s local-only marketing strategy, as well as its local only payment method. Being an Indonesian platform means that Tokopedia has to take Indonesian culture and traditions into account. Thus, Tokopedia has launched marketing campaigns that align with Indonesian traditions and values, such as ‘Tokopedia Ramadan’ and ‘Tokopedia Merdeka (independence)’.
 
-Tokopedia is one of Indonesia's most popular e-commerce platforms, making it crucial for Indian brands to leverage this platform in their influencer marketing strategies.
+With that being said, influencer marketing is huge in Indonesia. Indonesian shoppers tend to trust recommendations from local influencers more than paid ads, which is why Tokopedia has used a multitude of Indonesian influencers to promote its own brand on the platform.
 
-## 📢 Why Indian Brands Must Leverage Tokopedia
+So if you’re an Indian marketer or brand who’s looking to penetrate the Indonesian market, Tokopedia is the perfect platform to invest your marketing budget on to reach and attract Indonesian shoppers, especially if you use local influencers to promote your product listings on Tokopedia.
 
-Tokopedia is one of the largest e-commerce platforms in Indonesia, making it an essential part of the influencer marketing ecosystem.
+## Why Indonesian Influencer Marketing is Your Best Bet on Tokopedia
 
-It operates in a country that is the fourth largest population in the world, with over 270 million inhabitants. This means there is a significant market with massive buying power.
+1. **Indonesians prefer to shop on Tokopedia over Shopee**: As stated above, Tokopedia is more popular than Shopee in Indonesia. 36.4% of Indonesian shoppers prefer shopping on Tokopedia while only 31.5% prefer Shopee. This trend is expected to continue as Shopee continues to have massive exposure in Indonesia, but still has to catch up to Tokopedia’s popularity.
 
-In fact, Indonesia has the largest e-commerce market in Southeast Asia. It is expected to reach US$104 billion in gross merchandise value by 2025.
+2. **Local influencers have a larger reach and engagement**: Tokopedia has a feature called ‘Unggulan’ that allows merchants to increase their product visibility and thus increase sales. Since Tokopedia has limited ad placements, merchants must employ creative ways to attract shoppers and increase sales.
 
-Tokopedia is one of the most visited ecommerce sites in the country, competing with other giants such as Shopee and Bukalapak.
+Indonesian influencers can help your Tokopedia listings rank higher in the ‘Unggulan’ section by promoting your listings to their followers. Due to the sheer number of Tokopedia users, Indonesian influencers experience a 4 to 5 times higher reach and engagement than influencers from other countries.
 
-The platform has over 99 million monthly visits, making it essential for Indian brands looking to reach Indonesian consumers.
+3. **Indonesians trust recommendations from local influencers**: Tokopedia itself has used a multitude of local influencers to promote its brand and listings on the platform. The fact that Tokopedia was able to get these influencers to use their own platform to promote their brand speaks volumes of Tokopedia’s trust and influence among Indonesians. In fact, local influencers often leave their other campaigns with international platforms to focus on Tokopedia alone.
 
-Tokopedia has also grown in popularity as a marketplace for influencer marketing campaigns.
+4. **Indonesian consumers prefer local influencers**: According to a survey done by GfK, 85% of Indonesians prefer local influencers over foreign influencers because they’re better at communicating the local culture and values. This is especially true for Indonesian shoppers as Tokopedia caters exclusively to the Indonesian market. 
 
-The platform has over 15 million sellers, with thousands of stores affiliated with brands and influencers. Tokopedia is also known for its affordability, making it an excellent choice for smaller businesses.
+5. **Indonesians prefer local products**: Indonesian shoppers prefer to buy local products over international products. This is one of the reasons why Tokopedia has taken the lead over Shopee in popularity. As such, even if your products are made in India, local influencers will be able to position your products as local, effectively allowing you to reach more Indonesian shoppers.
 
-For Indian brands looking to get a foothold in the Indonesian e-commerce space, Tokopedia's popularity among consumers and influencers makes it a must-have in their marketing strategy.
+## How to Start Influencer Marketing on Tokopedia
 
-## 💡How Tokopedia Works
+1. **Choose the right Indonesian influencer to promote your listings**: Your first step is to partner with the right Indonesian influencer who has access to your target audience. 
 
-Tokopedia operates on a simple and easy-to-use platform.
+There are several influencer marketing platforms to choose from that can help you find an Indonesian influencer or influencer agency that can help you penetrate the Indonesian market. Some examples include:
 
-It allows sellers to create their own online stores, set prices, and manage inventory. Sellers can use various tools to market their products, including promotions, discounts, and advertising.
+- Klear: Klear is a global influencer marketing platform that can help you find Indonesian influencers from various categories.
+- Traackr: Traackr is another global influencer marketing platform that can help you find Indonesian influencers and agencies to work with.
+- Upfluence: Upfluence allows you to search for Indonesian influencers based on your selected criteria.
+- Influencity: Influencity is an influencer marketing platform that can help you find Indonesian influencers and manage your campaigns.
+- Intellifluence: Intellifluence is an influencer marketing platform that can help you find and connect with Indonesian influencers.
+- #Hashoff: #Hashoff is an influencer marketing platform that allows you to find and work with Indonesian influencers.
+- Influencer Marketing Hub: This website provides a list of influencer marketing platforms that can help you find Indonesian influencers.
 
-Tokopedia also allows influencers to create their own stores, collaborating with brands on marketing campaigns.
+Most Indonesian influencers are very active on Instagram and TikTok, which are the most popular social media platforms in Indonesia. 
 
-Influencers can use their stores to sell products, run promotions, and offer discounts to their followers.
+2. **Create your Tokopedia listing**: Once you’ve selected your influencer, you’ll need to create your Tokopedia listing. If you’re not Indonesian and do not have an Indonesian address, you’ll need to create a Tokopedia account using a 3rd party service, such as “J&T Express” or “Raja Ongkir”. 
 
-Influencers can also earn commissions on sales generated through their marketing efforts. Commissions typically range from 5 to 20 percent of the sale price.
+You’ll also need to create a local Indonesian bank account to receive funds from your sales. If you don’t have a local Indonesian bank account, you can use a payment processing service such as:
 
-This allows influencers to monetize their marketing efforts while providing brands with a cost-effective way to reach new customers.
+- Flutterwave: Flutterwave is a payment processing service that allows you to receive payments from Indonesian customers.
+- Xendit: Xendit is a payment processing service that allows you to accept payments from Indonesian customers.
+- DOKU: DOKU is an Indonesian payment processing service that allows you to accept payments from Indonesian customers.
+- Midtrans: Midtrans is a payment processing service that allows you to receive payments from Indonesian customers.
+- iPaymu: iPaymu is a payment processing service that allows you to accept payments from Indonesian customers.
 
-## 📊 Tokopedia's Social Media Integration
+3. **Provide your listings to your influencer**: Now that you’ve created your Tokopedia listing, it’s time to provide your Tokopedia listing URLs to your selected influencer. Inform them how you’d like them to promote your listings, whether they should include them in their Instagram stories or TikTok videos. 
 
-Tokopedia integrates with social media platforms like Instagram, Facebook, and Twitter.
+4. **Track your sales**: The final step is to track your sales through your Tokopedia account. You can also ask your influencer to send you screenshots of their analytics to see how many clicks or engagements their promotions generated. 
 
-This allows sellers and influencers to promote their stores and products on social media, driving traffic and sales.
+## Conclusion
 
-Tokopedia's social media integration also allows influencers to collaborate with brands on marketing campaigns.
+Tokopedia is a Indonesian-only e-commerce platform that has overtaken Shopee’s popularity among Indonesian shoppers. This makes Tokopedia the ideal platform for foreigners to reach Indonesian shoppers. 
 
-Influencers can use their social media accounts to promote their Tokopedia stores and generate sales for the brands they work with.
+With influencer marketing being a massive trend in Indonesia, using Indonesian influencers to promote your products listings on Tokopedia will help you stand out from the competition. 
 
-This creates a win-win situation for influencers and brands, as influencers can earn commissions on sales while brands can reach new customers through influencer marketing.
 
-## ❗Indian Brands Must Remember the Differences
-
-While Tokopedia operates as an e-commerce platform as it does in India, some differences must be noted by Indian brands looking to tap into the Indonesian market.
-
-First, they must understand that Indonesians use different online services for shopping.
-
-Indonesians typically favor social media platforms for online shopping over traditional e-commerce sites. They are more likely to purchase products directly from social media ads and influencers' social media accounts.
-
-Tokopedia must therefore be integrated with social media platforms to provide a seamless shopping experience for Indonesian consumers.
-
-In addition, Tokopedia's ease of use and affordability will appeal to Indonesian consumers, particularly younger generations.
-
-These younger generations are more price-sensitive and tech-savvy and are more likely to shop online.
-
-Using Tokopedia to reach younger generations is essential for Indian brands looking to succeed in the Indonesian market.
-
-## 🛑The Cultural Differences
-
-Another major difference is how Indonesians view the relationship between buyers and sellers.
-
-In India, many people like to haggle for a better price. In contrast, Indonesians respect the seller's price as the final price. They are less likely to negotiate for a lower price.
-
-Indian brands must therefore set fixed prices for their products on Tokopedia. If they offer promotions or discounts, they should be transparent about them.
-
-This cultural difference in pricing can affect sales as Indonesian consumers may perceive Indian brands as untrustworthy if they attempt to negotiate prices.
-
-## 💳 How to Effectively Pay Influencers on Tokopedia
-
-Lastly, Indian brands must understand that payment modes differ from those in India. 
-
-When selling on Tokopedia, brands must adhere to Tokopedia's payment process.
-
-The platform provides a secure payment system that ensures all transactions are safe and secure.
-
-Once a buyer purchases a product, the payment is held by Tokopedia until the seller ships the product.
-
-Once the product is received by the buyer, Tokopedia transfers the payment to the seller.
-
-This payment process ensures that buyers receive their products before the seller receives payment. It also protects sellers from fraudulent transactions.
-
-For Indian brands selling on Tokopedia, they must ensure that they comply with Tokopedia's payment process to ensure smooth transactions and avoid any issues.
-
-## 💕 Influencers Can Get Paid In Different Ways
-
-Influencers selling on Tokopedia can receive payments for their sales in various ways.
-
-Influencers can choose to receive payments through bank transfers, e-wallets, or cash on delivery.
-
-Bank transfers are the most common payment method for influencers, as they are the most secure and convenient.
-
-E-wallets like OVO and GoPay are also popular payment methods for influencers, as they allow for instant payments.
-
-Cash on delivery is also an option for influencers, but it is less common, as it requires more effort on the influencer's part.
-
-Influencers must choose the payment method that works best for them when selling products on Tokopedia.
-
-## 🇮🇳How Indian Brands Can Find Influencers on Tokopedia
-
-Indian brands looking to partner with influencers on Tokopedia can find them through various channels.
-
-One of the best ways to find influencers is through social media. Brands can search for influencers on platforms like Instagram, Twitter, and YouTube using hashtags related to their products or niche.
-
-Brands can also use social media listening tools to find influencers discussing their products or industry.
-
-Brands can also search for influencers directly on Tokopedia. The platform has a section for influencer stores, where brands can find influencers selling products.
-
-Brands can also check the Tokopedia affiliate program for influencers promoting products on Tokopedia.
-
-## 📈 The Benefits of Using Influencers on Tokopedia
-
-Using influencers on Tokopedia can benefit Indian brands looking to enter the Indonesian market.
-
-Influencers can help brands reach new customers, build brand awareness, and drive sales.
-
-Influencers have a loyal following, and their recommendations can carry significant weight with their followers. This makes influencers an excellent choice for brands looking to reach new audiences.
-
-Using influencers on Tokopedia can also help Indian brands establish credibility in the Indonesian market. Influencers can help build trust with consumers, making them more likely to purchase from a brand.
-
-In addition, influencer partnerships are often more cost-effective than traditional advertising methods. This makes them an excellent option for Indian brands looking to enter the Indonesian market on a budget.
-
-## 🚀 Tokopedia is Expected to Grow Further
-
-Tokopedia is expected to continue growing in popularity as an influencer marketing platform.
-
-The platform's ease of use, affordability, and social media integration make it an attractive option for sellers and influencers.
-
-As more influencers and brands join Tokopedia, the platform will become increasingly important for influencer marketing campaigns.
-
-Tokopedia is also expected to expand its features and functionalities to support influencer marketing further.
-
-This will make it easier for brands to find and collaborate with influencers and for influencers to promote products and drive sales.
-
-Indian brands looking to enter the Indonesian market must consider Tokopedia as part of their influencer marketing strategy.
-
-The platform's popularity, ease of use, and cost-effectiveness make it an excellent choice for brands looking to reach Indonesian consumers through influencer marketing.
+If you would like to learn more about influencer marketing in Indonesia, you can check out our blog here.
