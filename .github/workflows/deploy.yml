@@ -34,6 +34,6 @@ jobs:
         with:
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
           apiToken: ${{ secrets.CF_API_TOKEN }}
-          projectName: baoliba-in
+          projectName: baoliba-in2
           directory: public
 
