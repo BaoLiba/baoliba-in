@@ -3,8 +3,8 @@ name: Deploy Hugo Site to Cloudflare Pages
 on:
   push:
     branches:
-      - main  # 监听 main 分支的 push 事件
-  workflow_dispatch:  # 允许手动触发
+      - main
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -36,6 +36,4 @@ jobs:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           projectName: baoliba-in
           directory: public
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          environment: production
+
